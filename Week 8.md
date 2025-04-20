@@ -1,37 +1,35 @@
-# Week 8 – Learning Experiment
+# Week 8 – Learning Experiment (Late Submission)
 
 ## Learning Activities & Resources
 
-- I tried a learning experiment to compare two different ways of studying PHP:
-  1. Reading and copying code from notes (passive)
-  2. Studying first, then writing the code from memory (active)
-- I got the idea from reading about how "active recall" is better for learning.
-- Also watched a short video about good study techniques from [The Learning Scientists](https://www.learningscientists.org/).
+Although I’m submitting this entry late, I still wanted to reflect on a useful learning experiment I did based on the prac instructions.
+
+- I looked into how different learning methods affect my understanding of code
+- My goal was to compare passive vs active learning styles, specifically in PHP and WordPress
+- Used resources like:
+  - [The Learning Scientists – Effective Study Strategies](https://www.learningscientists.org/)
+  - A short YouTube video on active recall and spaced repetition
 
 ---
 
 ## Estimated Hours
 
-**2.5 hours**
+**1.5 hours**
 
 ---
 
 ## Content Insights
 
-From this experiment, I learned that trying to **remember and write code from memory** helped me understand it better than just copying or watching videos. 
+For this experiment, I tried two small PHP tasks: one by just copying and watching, and the second by reading and writing from memory without help. I realised that the second method (active recall) helped me retain the logic better and gave me more confidence in writing the code.
 
-In the task I copied directly, I had to look back at my notes often. But when I wrote the second task from memory, I remembered the logic and made fewer mistakes. It helped me understand how PHP functions and loops really work.
-
-I also realized that **just reading or watching isn’t enough**—writing code from memory makes me think harder and learn faster.
+Even though it was a small difference, I remembered the structure and function of the code much more clearly. It confirmed that just watching tutorials or copying examples doesn't help as much as trying to write and solve it on your own.
 
 ---
 
 ## Career / Employability / Learning Insights
 
-This experiment showed me that **active learning is more effective**—especially in programming. If I want to work in web development or IT, I need to get better at solving problems without relying on notes.
+This activity reminded me that even simple techniques like testing yourself and trying things from memory can really improve learning. In real jobs, we’re expected to build and fix things without being spoon-fed, so improving how I learn is just as important as what I learn.
 
-Doing this experiment helped me build more confidence in my coding. It also reminded me that short study sessions, followed by a quick practice test, can help me remember what I learned better.
-
-Going forward, I plan to use this technique while learning things like WordPress plugins or preparing for assessments.
+Even though I’m doing this entry late, I can say this reflection has helped me re-think how I approach tasks — I’ll definitely try to use more active learning for future topics and assessments.
 
 ---
